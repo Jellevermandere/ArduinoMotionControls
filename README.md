@@ -7,7 +7,7 @@ There is also a sound controller which listens to the microphone and does someth
 
 ## Explainer video:
 
-https://www.youtube.com/embed/0jwkZKDOzfc
+https://www.youtube.com/embed/FSK1Msmau0A
 
 ## game download:
 
